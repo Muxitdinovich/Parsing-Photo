@@ -12,6 +12,8 @@
   <p>
     python photo-parsing <url>
 <pre>
+  python photo-parsing -h
+  
   python photo-parsing https://ru.freepik.com/free-photos-vectors/logo
 </pre>
   </p>
