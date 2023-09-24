@@ -9,17 +9,18 @@
   
   python photo-parsing
 </pre>
-<b>
+
 <h>
 Ishlatish:  
 </h>
   <p>
     python photo-parsing <url>
-      Misol:
-      <pre>
-        python photo-parsing https://ru.freepik.com/free-photos-vectors/logo
+Misol:
+<pre>
+  python photo-parsing https://ru.freepik.com/free-photos-vectors/logo
+</pre>
   </p>
-</b>
+
 
 
 🌐 https://hablgame.nicepage.io
