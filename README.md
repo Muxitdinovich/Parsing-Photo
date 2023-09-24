@@ -9,13 +9,8 @@
   
   python photo-parsing
 </pre>
-
-<h>
-Ishlatish:  
-</h>
   <p>
     python photo-parsing <url>
-Misol:
 <pre>
   python photo-parsing https://ru.freepik.com/free-photos-vectors/logo
 </pre>
