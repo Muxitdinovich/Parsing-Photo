@@ -14,7 +14,7 @@
 <pre>
  python photo-parsing.py -h
   
-python photo-parsing.py https://ru.freepik.com/free-photos-vectors/logo
+ python photo-parsing.py https://ru.freepik.com/free-photos-vectors/logo
 </pre>
 
 
