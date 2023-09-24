@@ -9,9 +9,8 @@
   
   python photo-parsing.py
 </pre>
+ # Запустить
   <p>
-     # Запустить
-    python photo-parsing <url>
 <pre>
 python photo-parsing.py -h
   
