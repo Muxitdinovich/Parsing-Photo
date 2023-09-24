@@ -7,14 +7,14 @@
   
   cd Parsing-Photo
   
-  python photo-parsing
+  python photo-parsing.py
 </pre>
   <p>
     python photo-parsing <url>
 <pre>
-python photo-parsing -h
+python photo-parsing.py -h
   
-  python photo-parsing https://ru.freepik.com/free-photos-vectors/logo
+  python photo-parsing.py https://ru.freepik.com/free-photos-vectors/logo
 </pre>
   </p>
 
