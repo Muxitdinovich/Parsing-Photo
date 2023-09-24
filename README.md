@@ -1,7 +1,7 @@
 # Parsing-Photo
 
 <pre>
-  git clone https:github.com/Muxitdinovich/Parsing-Photo.git
+  git clone https://github.com/Muxitdinovich/Parsing-Photo
   
   pip3 install requests-html
   
