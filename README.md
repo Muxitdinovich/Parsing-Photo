@@ -10,9 +10,9 @@
   python photo-parsing.py
 </pre>
   <p>
+     # Запустить
     python photo-parsing <url>
 <pre>
-  # Запустить
 python photo-parsing.py -h
   
   python photo-parsing.py https://ru.freepik.com/free-photos-vectors/logo
